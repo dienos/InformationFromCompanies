@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">InformationFromCompanies</string>
+    <string name="average_annual_salary">평균 연봉</string>
+    <string name="strengths">장점</string>
+    <string name="weakness">단점</string>
+    <string name="interview_question">면접질문</string>
+    <string name="show_more_company_info">기업정보 더보기</string>
+    <string name="show_more_review">기업리뷰 더보기</string>
+
+
 </resources>
